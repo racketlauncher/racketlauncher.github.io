@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Haku
+title: Wilson Pro Staff
 subtitle :
-tags: [Random]
-author: Bon
+tags: [Racket, Preloved, Wilson]
+author: Racket Launcher
 comments : True
 ---
 
