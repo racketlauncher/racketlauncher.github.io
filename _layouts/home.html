@@ -31,9 +31,9 @@ layout: default
                 {% endif %}
               </p>
               <div>
-                <span class="meta">
+                <!-- <span class="meta">
                   {{ post.date | date: "%B %-d, %Y" }}
-                </span>
+                </span> -->
                 <ul class="tag-wrap">
                   {% for tag in post.tags %}
                   <a href="{{site.baseurl}}/tags#{{ tag | cgi_escape }}">
