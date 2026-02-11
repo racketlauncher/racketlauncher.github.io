@@ -1,0 +1,69 @@
+# Site Settings
+baseurl: ""
+url : "https://racketlauncher.github.io"
+
+# Blog Settings
+theme_settings :
+  title : Racket Launcher
+  favicon : assets/favicon.ico
+
+  # Blog Settings
+theme_settings :
+  title : Racket Launcher
+  favicon : assets/favicon.ico
+
+  # Profile Settings
+  profile :
+    image : assets/img/dinosaur.png
+    username : Racket Launcher
+    description : best valued online tennis racket shop 🎾 cebu
+    experience :
+      - start : 2021
+        end : 2026
+        experience : Water kid at Wimbledon
+      - start : 2019
+        end : 2021
+        experience : Dirt remover at Roland Garros
+      - start : 2016
+        end : 2019
+        experience : Unhappy at AO
+      - start : 2014
+        end : 2016
+        experience : Nonchalant at Flushing Meadows
+    skills : 
+      - skill : Serve
+        value : 10  # Percent value
+      - skill : Backhand
+        value : 30  # Percent value
+      - skill : Forehand
+        value : 80  # Percent value
+      - skill : Grunting
+        value : 95  # Percent value
+        
+  # Icons
+  icons :
+    email:  # Full email address, e.g. "sample@google.com"
+    linkedin:  # Full URL 
+    github: 
+    gitlab: 
+    bitbucket: 
+    google_plus:
+    twitter: 
+    youtube:
+    facebook: racketlauncherph
+    instagram: racketlauncher
+
+  # Disqus
+  disqus_shortname : bonasfvck
+
+# Pagination
+paginate: 3
+paginate_path: "blog/page:num"
+
+# Build Ssttings
+sass:
+  sass_dir: _sass
+  style: :compressed
+gems: [jekyll-paginate]
+bootstrap:
+  assets: true
