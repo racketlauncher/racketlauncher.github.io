@@ -14,6 +14,7 @@ SRP: ~~Php 15,000~~ <br>
 <img src="/assets/img/haku.jpg" alt="Haku" style="width: 300px;"> <br>
 Head Size: 100 inches <br>
 Unstrung Weight: 285 grams <br>
+Grip Size: 2
 
 
 
