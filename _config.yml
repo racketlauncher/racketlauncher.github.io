@@ -14,7 +14,7 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/dinosaur.png
+    image : assets/img/dino_racket.png
     username : Racket Launcher
     description : best valued online tennis racket shop 🎾 cebu
     experience :
