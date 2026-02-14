@@ -9,7 +9,7 @@ comments : True
 
 Condition: Brand New <br>
 Availability: In Stock <br>
-Price: Php 15,500 <br>
+Price: Php 16,000 <br>
 SRP: ~~Php 19,000~~ <br>
 Price Comparison: https://www.lazada.com.ph/products/pdp-i4544600332.html <br>
 <img src="/assets/img/rackets/babolat_aero.jpeg" alt="Pure Aero Origin" style="width: 300px;"> <br>
