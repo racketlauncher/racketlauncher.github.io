@@ -15,8 +15,8 @@ Price Comparison: https://www.lazada.com.ph/products/pdp-i4338747736.html <br>
 <img src="/assets/img/rackets/babolat_strike.jpeg" alt="Pure Aero Origin" style="width: 300px;"> <br>
 Head Size: 98 inches <br>
 Unstrung Weight: 305 grams <br>
-Grip Size: 2
-String Pattern: 18 x 20
-Length: 27 inches
-Balance: 320 mm
+Grip Size: 2 <br>
+String Pattern: 18 x 20 <br>
+Length: 27 inches <br>
+Balance: 320 mm <br>
 
