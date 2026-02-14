@@ -9,7 +9,7 @@ comments : True
 
 Condition: Brand New <br>
 Availability: In Stock <br>
-Price: Php 15,000 <br>
+SALE PRICE: Php 15,000 <br>
 SRP: ~~Php 17,600~~ <br>
 Price Comparison: https://www.lazada.com.ph/products/pdp-i4884596260.html <br>
 <img src="/assets/img/rackets/head_extreme.jpeg" alt="Head Extreme" style="width: 300px;"> <br>

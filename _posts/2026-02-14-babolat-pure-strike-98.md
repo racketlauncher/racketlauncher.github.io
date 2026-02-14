@@ -9,7 +9,7 @@ comments : True
 
 Condition: Brand New <br>
 Availability: In Stock <br>
-Price: Php 11,000 <br>
+SALE PRICE: Php 11,000 <br>
 SRP: ~~Php 14,980~~ <br>
 Price Comparison: https://www.lazada.com.ph/products/pdp-i4338747736.html <br>
 <img src="/assets/img/rackets/babolat_strike.jpeg" alt="Pure Strike" style="width: 300px;"> <br>
