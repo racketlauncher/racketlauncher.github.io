@@ -1,20 +1,23 @@
 ---
 layout: post
-title: Wilson Blade 100L
+title: Head Radical Pro
 subtitle :
 tags: [Racket, Preloved, Wilson]
 author: Racket Launcher
 comments : True
 ---
 
-Condition: Preloved <br>
+Condition: Brand New <br>
 Availability: In Stock <br>
-Price: Php 8,000 <br>
-SRP: ~~Php 15,000~~ <br>
-<img src="/assets/img/haku.jpg" alt="Haku" style="width: 300px;"> <br>
-Head Size: 100 inches <br>
-Unstrung Weight: 285 grams <br>
-Grip Size: 2
+Price: Php 16,000 <br>
+SRP: ~~Php 18,000~~ <br>
+Price Comparison: https://www.lazada.com.ph/products/pdp-i5040724086.html <br>
+<img src="/assets/img/rackets/head_radical.jpeg" alt="Head Radical" style="width: 300px;"> <br>
+Head Size: 98 inches <br>
+Unstrung Weight: 315 grams <br>
+Grip Size: 3 <br>
+String Pattern: 16 x 19 <br>
+Balance: 315 mm <br>
 
 
 
